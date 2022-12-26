@@ -1,0 +1,5 @@
+classes = 3
+train =
+valid = 
+names = syoseki/v4tiny_3class.names
+backup = backup/syoseki
